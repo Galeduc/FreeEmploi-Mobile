@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "FreeEmploi",
+    "slug": "FreeEmploi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/android-icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/android-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.galeduc.FreeEmploi"
+    },
+    "web": {
+      "favicon": "./assets/favicon.ico"
+    },
+    "scheme": "freeemploi",
+    "extra": {
+      "eas": {
+        "projectId": "718bcea3-5030-4ec9-b1b8-e5227d0c82e7"
+      }
+    }
+  }
+}

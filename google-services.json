@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1098573266806",
+    "project_id": "freeemploi-e4e54",
+    "storage_bucket": "freeemploi-e4e54.appspot.com",
+    "api_key": [
+      {
+        "current_key": "AIzaSyCklRqojcZVYqr3UynGmitMgAtdOpSZzho"
+      }
+    ],
+    "firebase_url": "https://freeemploi-e4e54.firebaseio.com",
+    "project_id_number": "1098573266806"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098573266806:android:9d622595ba9fc8ead08457",
+        "android_client_info": {
+          "package_name": "com.galeduc.freeemploi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098573266806-feeko7n3e6e2hkprtpci2nork9squ5kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.galeduc.freeemploi",
+            "certificate_hash": "1182E51C46AABE6D364475DEFC8DF3AF5280BED8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCklRqojcZVYqr3UynGmitMgAtdOpSZzho"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
