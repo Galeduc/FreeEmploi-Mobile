@@ -22,7 +22,7 @@
       "package": "com.galeduc.FreeEmploi"
     },
     "web": {
-      "favicon": "./assets/favicon.ico"
+      "favicon": "./assets/icon.png"
     },
     "scheme": "freeemploi",
     "extra": {
